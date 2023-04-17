@@ -33,7 +33,6 @@ Esse projeto foi criado para realizar um processo de ETL direto para uma base de
   - Pandas
   - PyMySQL
   - SQLAlchemy
-- 🖥️16GB RAM
 
 >💡Atenção
 >
